@@ -1,0 +1,5 @@
+#file to ignore
+.DS_Store
+
+
+# *.txt ignore all txt file
